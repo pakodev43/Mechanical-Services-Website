@@ -228,7 +228,7 @@ p{
 }
 
 .main_link{
-    padding: .9rem 2rem;
+    padding: 1rem 2rem .9rem 2rem;
     /* border: 2px solid var(--clr-text); */
     border-radius: .3rem;
     font-size: var(--fs-s);
@@ -246,7 +246,7 @@ p{
     max-width: 1rem;
     max-height: 1rem;
     margin-left: .5rem;
-    transform: translate(0px, 2px);
+    transform: translate(0px, 3px);
 }
 
 
